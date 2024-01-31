@@ -1,0 +1,7 @@
+env: "local"
+token_ttl: 1h
+database_url: "postgres://forms_app:4rfh4iwdhauhfd@85.234.110.196:5432/forms"
+grpc:
+  port: 44044
+  timeout: 10h
+
